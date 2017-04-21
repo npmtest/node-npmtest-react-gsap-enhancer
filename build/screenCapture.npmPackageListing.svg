@@ -1,23 +1,23 @@
 <svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="318" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 11:54:47 +0000    70497 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 11:54:47 +0000      283 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 11:54:47 +0000     1083 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 11:54:47 +0000    12043 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 11:54:47 +0000     5962 bytes  lib/Controller.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 11:54:47 +0000     8139 bytes  lib/Controller.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 11:54:47 +0000     2508 bytes  lib/attachRefs.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 11:54:47 +0000     3591 bytes  lib/attachRefs.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 11:54:47 +0000     3287 bytes  lib/createTarget.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 11:54:47 +0000     6155 bytes  lib/createTarget.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 11:54:47 +0000     9598 bytes  lib/gsap-enhancer.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 11:54:47 +0000     8303 bytes  lib/gsap-enhancer.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 11:54:47 +0000      622 bytes  lib/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 11:54:47 +0000      261 bytes  lib/index.js.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 11:54:47 +0000     1857 bytes  lib/utils.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 11:54:47 +0000     3622 bytes  lib/utils.js.map</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 11:54:47 +0000     2556 bytes  package.json</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 11:54:47 +0000      627 bytes  webpack.browser.config.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 11:55:51 +0000    70497 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 11:55:51 +0000      283 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 11:55:51 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 11:55:51 +0000    12043 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 11:55:51 +0000     5962 bytes  lib/Controller.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 11:55:51 +0000     8139 bytes  lib/Controller.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 11:55:51 +0000     2508 bytes  lib/attachRefs.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 11:55:51 +0000     3591 bytes  lib/attachRefs.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 11:55:51 +0000     3287 bytes  lib/createTarget.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 11:55:51 +0000     6155 bytes  lib/createTarget.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 11:55:51 +0000     9598 bytes  lib/gsap-enhancer.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 11:55:51 +0000     8303 bytes  lib/gsap-enhancer.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 11:55:51 +0000      622 bytes  lib/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 11:55:51 +0000      261 bytes  lib/index.js.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 11:55:51 +0000     1857 bytes  lib/utils.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 11:55:51 +0000     3622 bytes  lib/utils.js.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 11:55:51 +0000     2556 bytes  package.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 11:55:51 +0000      627 bytes  webpack.browser.config.js</tspan>
 </text>
 </svg>
